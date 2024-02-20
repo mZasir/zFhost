@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Je suis Fhost, un étudiant en première année de but informatique qui jongle avec les octets et danse avec les algorithmes. J'ai toujours été passionné par les défis informatiques, j'aime plonger tête première dans des projets intrigants qui me font sortir de ma zone de confort. Chaque ligne de code est une énigme à résoudre, et j'adore ça !
+C'est Fhost, étudiant en première année de BUT Informatique qui aime jongler avec les octets et danser avec les algorithmes. J'ai toujours été passionné par les défis informatiques, j'aime plonger tête première dans des projets intrigants qui me font sortir de ma zone de confort. Chaque ligne de code est une énigme à résoudre, et j'adore ça !
 
 Quand je ne suis pas en train de débugger, vous me trouverez sûrement en train de découvrir de nouvelles technologies 😄 
 J'ai une soif de connaissances et une curiosité sans limite.
