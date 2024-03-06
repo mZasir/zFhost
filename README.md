@@ -2,11 +2,6 @@
 
 C'est Fhost, étudiant en première année de BUT Informatique qui aime jongler avec les octets et danser avec les algorithmes. J'ai toujours été passionné par les défis informatiques, j'aime plonger tête première dans des projets intrigants qui me font sortir de ma zone de confort. Chaque ligne de code est une énigme à résoudre, et j'adore ça !
 
-Quand je ne suis pas en train de débugger, vous me trouverez sûrement en train de découvrir de nouvelles technologies 😄 
-J'ai une soif de connaissances et une curiosité sans limite.
-
-Rejoignez-moi dans cette aventure numérique où chaque bug est une énigme à résoudre, chaque projet est une opportunité d'apprendre, et où l'informatique devient une danse passionnante entre la logique et la créativité. 💻✨
-
 "La connaissance est l'épée tranchante qui ouvre les portes du savoir"📚⚔️
 
 <!--
